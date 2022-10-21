@@ -16,13 +16,13 @@ User led: LD3 (orange), LD4 (green), LD5 (red), LD6 (blue)
 
 ## Cấu trúc phần cứng:
 
-*Hardware Bock diagram:*
+*Hardware Bock diagram:*  
 ![Hardware Bock diagram](image/HardwareBlock.png)  
 
-*Top layout*
+*Top layout*  
 ![Top layout](image/toplayout.png)  
  
-*Bot layout*
+*Bot layout*  
 ![Bot layout](image/botlayout.png)  
  
 ### *Power Supply and power selection:*
