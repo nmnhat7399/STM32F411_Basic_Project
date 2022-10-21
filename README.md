@@ -15,6 +15,7 @@ User led: LD3 (orange), LD4 (green), LD5 (red), LD6 (blue)
 - Connect to PC thông qua USB ST-Link, LED LD2 (PWR) sáng, 4 led giữa 2 nút nhấn blinking.
 
 ## Cấu trúc phần cứng:
+
 *Hardware Bock diagram:*
 ![Hardware Bock diagram](image/HardwareBlock.png)  
 
